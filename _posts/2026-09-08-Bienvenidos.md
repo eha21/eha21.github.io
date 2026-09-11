@@ -1,5 +1,5 @@
 ---
-title: Bienvenidos
+title: BIENVENIDOS
 date: 2026-09-08 22:45:00 -0600
 categories: [Bienvenidos]
 tags: [inicio,bienvenidos]
